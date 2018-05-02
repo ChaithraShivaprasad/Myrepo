@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 76FE-7083
+
+ Directory of C:\Users\schai\Downloads\hello-world-master\hello-world-master
+
+05/01/2018  09:33 PM    <DIR>          .
+05/01/2018  09:33 PM    <DIR>          ..
+05/01/2018  09:14 PM               130 chai.java
+05/01/2018  09:00 PM               116 README.md
+05/01/2018  09:33 PM                 0 temp.txt
+               3 File(s)            246 bytes
+               2 Dir(s)  919,209,635,840 bytes free
